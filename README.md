@@ -1,0 +1,2 @@
+# BraveBrowserAppImage
+BraveBrowserAppImage
